@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-15T20:14:21 IST" name="Default suite" finished-at="2022-06-15T20:14:30 IST" duration-ms="9080">
+  <suite started-at="2022-06-15T20:26:07 IST" name="Default suite" finished-at="2022-06-15T20:26:16 IST" duration-ms="8875">
     <groups>
     </groups>
-    <test started-at="2022-06-15T20:14:21 IST" name="Default test" finished-at="2022-06-15T20:14:30 IST" duration-ms="9080">
+    <test started-at="2022-06-15T20:26:07 IST" name="Default test" finished-at="2022-06-15T20:26:16 IST" duration-ms="8875">
       <class name="com.TestCases.DragAndDrop">
-        <test-method is-config="true" signature="LBrowser()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:14:21 IST" name="LBrowser" finished-at="2022-06-15T20:14:26 IST" duration-ms="4362" status="PASS">
+        <test-method is-config="true" signature="LBrowser()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:26:07 IST" name="LBrowser" finished-at="2022-06-15T20:26:12 IST" duration-ms="4294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LBrowser -->
-        <test-method signature="DragAndDropm()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:14:26 IST" name="DragAndDropm" finished-at="2022-06-15T20:14:30 IST" duration-ms="4567" status="PASS">
+        <test-method signature="DragAndDropm()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:26:12 IST" name="DragAndDropm" finished-at="2022-06-15T20:26:16 IST" duration-ms="4477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DragAndDropm -->
-        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:14:30 IST" name="after" finished-at="2022-06-15T20:14:30 IST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.DragAndDrop@36bc55de]" started-at="2022-06-15T20:26:16 IST" name="after" finished-at="2022-06-15T20:26:16 IST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->

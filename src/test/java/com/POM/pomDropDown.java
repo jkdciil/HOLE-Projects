@@ -20,8 +20,16 @@ public class pomDropDown {
 	@FindBy(xpath="//select[@id='dropdown']")
 	WebElement txt_Select_an_Option;
 	
+	@FindBy(linkText="Drag and Drop")
+	WebElement txt_Drag_and_Drop;
+	
 	public void clik_DD()
 	{
 		txt_dropdown.click();
+	}
+	
+	public void DD2()
+	{
+		txt_Drag_and_Drop.click();
 	}
 }

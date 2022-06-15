@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class pomDragAndDrop {
 
-	public WebDriver rdriver;
+	/*public WebDriver rdriver;
 	
 	public pomDragAndDrop(WebDriver ldriver)
 	{
@@ -21,6 +21,6 @@ public class pomDragAndDrop {
 	public void DD()
 	{
 		txt_Drag_and_Drop.click();
-	}
+	}*/
 	
 }
